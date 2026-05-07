@@ -1,3 +1,8 @@
+# ❤️ Hỗ trợ Super Tools
+
+Nếu Super Tools hữu ích cho công việc hằng ngày của bạn, hãy cân nhắc hỗ trợ dự án để giúp duy trì hosting, domain và phát triển thêm nhiều tính năng mới trong tương lai.
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=super.tools&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)]([http://google.com](https://buymeacoffee.com/super.tools)) 
+
 # 🚀 Về Super Tools
 
 **Super Tools** là một website tập hợp các công cụ tiện ích dành cho lập trình viên và những người làm việc trong lĩnh vực IT. Dự án được xây dựng với mục tiêu mang lại trải nghiệm nhanh, gọn, và dễ sử dụng cho các tác vụ hằng ngày.
