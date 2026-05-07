@@ -1,3 +1,9 @@
+# ❤️ 支持 Super Tools
+
+如果 Super Tools 对你的日常工作有所帮助，欢迎支持项目，以帮助支付服务器、域名以及后续开发维护费用。
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=super.tools&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)]([http://google.com](https://buymeacoffee.com/super.tools)) 
+
 # 🚀 关于 Super Tools
 
 **Super Tools** 是一个为开发者和 IT 从业者打造的实用工具集合网站。  
