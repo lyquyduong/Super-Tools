@@ -8,7 +8,7 @@ If Super Tools helps you in your daily workflow, consider supporting the project
 
 # 🚀 About Super Tools
 
-<p align="center">
+
 
   <a href="https://www.buymeacoffee.com/super.tools" target="_blank">
 
@@ -22,7 +22,6 @@ If Super Tools helps you in your daily workflow, consider supporting the project
 
   </a>
 
-</p>
 
 **Super Tools** is a collection of useful online utilities designed for developers and IT professionals. The project was created with the goal of providing fast, simple, and practical tools for everyday technical tasks.
 
