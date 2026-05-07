@@ -2,7 +2,7 @@
 
 If Super Tools helps you in your daily workflow, consider supporting the project to help cover hosting, domain, and future development costs.
 
-☕ Sponsor: [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=super.tools&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)]([http://google.com](https://buymeacoffee.com/super.tools)) 
+Sponsor: [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=super.tools&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)]([http://google.com](https://buymeacoffee.com/super.tools)) 
 
 ---
 
