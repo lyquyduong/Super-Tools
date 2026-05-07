@@ -1,39 +1,47 @@
-# 🚀 About Super Tools
+# ❤️ Support Super Tools
 
-**Super Tools** is a collection of useful online utilities designed for developers and IT professionals. The project was created with the goal of providing fast, simple, and practical tools for everyday technical tasks.
+If Super Tools helps you in your daily work, consider supporting the project to help maintain hosting, domain, and future development.
 
-If you find Super Tools helpful, feel free to share it with your friends or colleagues — and don’t forget to bookmark it for quick access!
-
-🌐 Homepage: https://tools.lyquyduong.com  
-💻 Source Code: https://github.com/lyquyduong/Super-Tools  
+☕ Sponsor: https://buymeacoffee.com/super.tools
 
 ---
 
-# ❤️ Open Source & Free
+# 🚀 Về Super Tools
 
-Super Tools is an **open-source** project (licensed under GPL-3.0) and completely free to use — and it always will be.
+**Super Tools** là một website tập hợp các công cụ tiện ích dành cho lập trình viên và những người làm việc trong lĩnh vực IT. Dự án được xây dựng với mục tiêu mang lại trải nghiệm nhanh, gọn, và dễ sử dụng cho các tác vụ hằng ngày.
 
-However, maintaining the infrastructure (hosting, domain, CI/CD, etc.) still comes with costs. If you'd like to support the project and encourage the development of more tools, you’re welcome to contribute or participate directly on GitHub.
+Nếu bạn thấy Super Tools hữu ích, hãy chia sẻ với đồng nghiệp hoặc bạn bè của bạn — và đừng quên bookmark để truy cập nhanh khi cần!
 
----
-
-# ⚙️ Tech Stack
-
-Super Tools is built using a modern technology stack:
-
-- **React** – main frontend framework
-- **Native UI** – lightweight and efficient UI components
-- **Vercel** – hosting platform with continuous deployment
-
-Some tools may also rely on additional open-source third-party libraries. You can find the full list inside the repository’s `package.json` file.
+🌐 Trang chủ: https://tools.lyquyduong.com  
+💻 Mã nguồn: https://github.com/lyquyduong/Super-Tools  
 
 ---
 
-# 🐞 Bug Reports & Contributions
+# ❤️ Mã nguồn mở & miễn phí
 
-Found a bug? Missing a useful tool?
+Super Tools là dự án **mã nguồn mở** (giấy phép GPL-3.0) và hoàn toàn miễn phí — và sẽ luôn như vậy.
 
-👉 Create an issue on GitHub:  
+Tuy nhiên, việc duy trì hệ thống (hosting, domain, CI/CD, v.v.) vẫn có chi phí. Nếu bạn muốn hỗ trợ và góp phần giúp dự án phát triển thêm nhiều công cụ mới, bạn có thể đóng góp hoặc tham gia phát triển trực tiếp trên GitHub.
+
+---
+
+# ⚙️ Công nghệ sử dụng
+
+Super Tools được xây dựng với stack hiện đại:
+
+- **React** – thư viện UI chính
+- **Native UI** – hệ thống component đơn giản, hiệu năng cao
+- **Vercel** – nền tảng deploy & CI/CD tự động
+
+Ngoài ra, một số công cụ có thể sử dụng thêm các thư viện mã nguồn mở bên thứ ba. Bạn có thể xem chi tiết trong file `package.json` của repository.
+
+---
+
+# 🐞 Báo lỗi & đóng góp
+
+Bạn phát hiện bug? Hay cần thêm công cụ mới?
+
+👉 Hãy tạo issue tại GitHub:  
 https://github.com/lyquyduong/Super-Tools/issues  
 
-All contributions are welcome — whether it’s bug reports, feature requests, or pull requests 🚀
+Mọi đóng góp đều được hoan nghênh — từ báo lỗi, đề xuất tính năng cho đến pull request 🚀
