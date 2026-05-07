@@ -1,0 +1,41 @@
+# 🚀 关于 Super Tools
+
+**Super Tools** 是一个为开发者和 IT 从业者打造的实用工具集合网站。  
+该项目旨在提供快速、简洁且高效的在线工具，帮助完成日常技术工作。
+
+如果你觉得 Super Tools 对你有帮助，欢迎分享给你的朋友或同事，也别忘了加入书签方便以后快速访问！
+
+🌐 官网：https://tools.lyquyduong.com  
+💻 源代码：https://github.com/lyquyduong/Super-Tools  
+
+---
+
+# ❤️ 开源且永久免费
+
+Super Tools 是一个 **开源项目**（GPL-3.0 协议），并且完全免费使用 —— 未来也会一直保持免费。
+
+不过，项目的运行与维护（服务器、域名、CI/CD 等）仍然需要一定成本。  
+如果你愿意支持项目的发展，并帮助增加更多实用工具，欢迎通过 GitHub 参与贡献。
+
+---
+
+# ⚙️ 技术栈
+
+Super Tools 使用现代化技术栈构建：
+
+- **React** – 前端框架
+- **Native UI** – 轻量高效的 UI 组件库
+- **Vercel** – 自动部署与托管平台
+
+部分工具可能还会使用其他第三方开源库，你可以在仓库中的 `package.json` 文件查看完整依赖列表。
+
+---
+
+# 🐞 Bug 反馈与贡献
+
+发现 Bug？或者希望增加新的工具？
+
+👉 欢迎在 GitHub 提交 Issue：  
+https://github.com/lyquyduong/Super-Tools/issues  
+
+无论是 Bug 反馈、功能建议还是 Pull Request，我们都非常欢迎 🚀
